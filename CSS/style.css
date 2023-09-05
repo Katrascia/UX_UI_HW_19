@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Junction;
 }
@@ -207,6 +211,24 @@ margin-left: 60px;
 .contacticons {
     text-align: center;
 }
+
+.resume:hover {
+    background-color: #62C0F3;
+    cursor: pointer;
+}
+.viewproject:hover {
+    background-color: #62C0F3;
+    cursor: pointer;
+}
+.viewall:hover {
+    background-color: #62C0F3;
+    cursor: pointer;
+}
+.passion:hover {
+    background-color: #62C0F3;
+    cursor: pointer;
+}
+
 
 
 @media only screen and (max-width: 768px)
